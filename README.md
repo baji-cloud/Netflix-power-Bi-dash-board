@@ -1,5 +1,8 @@
 # 📺 Netflix Data Analysis Dashboard – Power BI
 
+![Netflix Logo](![netflix-logo](https://github.com/user-attachments/assets/fe83fda4-27dd-4780-b3e4-17c2cc0d9b35)
+)
+
 <p align="center">
   <<img width="1299" height="701" alt="Screenshot 2025-11-09 200441 (1)" src="https://github.com/user-attachments/assets/676e0e69-a088-4827-a4ba-4b2de262e19f" />
 >
